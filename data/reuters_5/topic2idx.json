@@ -1,0 +1,7 @@
+{
+ "earn": 0,
+ "acq": 1,
+ "crude": 2,
+ "trade": 3,
+ "money-fx": 4
+}

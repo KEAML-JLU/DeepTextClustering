@@ -1,0 +1,12 @@
+{
+ "earn": 0,
+ "acq": 1,
+ "crude": 2,
+ "trade": 3,
+ "money-fx": 4,
+ "interest": 5,
+ "money-supply": 6,
+ "ship": 7,
+ "sugar": 8,
+ "coffee": 9
+}
